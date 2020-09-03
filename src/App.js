@@ -2,7 +2,6 @@ import React, {useState, useEffect} from "react";
 import "./App.css";
 import axios from 'axios'
 import Card from './Card'
-import styled from "styled-components";
 import MyButton from './myButton'
 
 
